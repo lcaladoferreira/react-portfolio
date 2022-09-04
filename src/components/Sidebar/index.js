@@ -41,14 +41,7 @@ const Sidebar = () => (
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                 </a>
             </li>
-            <li>
-                <a target="_blank" 
-                rel= "noreferrer" 
-                href="https://www.youtube.com/c/LCGuitarEDM"
-                >
-                    <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
-                </a>
-            </li>
+            
         </ul>
 
     </div>

@@ -39,12 +39,12 @@ const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r
             strArray={jobArray}
             idx={22} />
             </h1>
-            <h2>Frontend Developer / MBA React, VueJS and Angular student </h2>
+            <h2>Frontend Developer / React, Angular and VueJS </h2>
             <Link to="/contact" className="flat-button">
                 CONTACT ME
                 </Link>
         </div>
-        <Logo/>
+       <Logo/>
     </div>
   );    
 
